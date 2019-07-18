@@ -2,7 +2,7 @@
 Filming Locations in San Francisco
 
 
-<h2>What question are you answering or problem are you analyzing:<h2>
+<h2>Filming Questions:<h2>
 <h4>How many different movies have been filmed in San Francisco?
 How many different locations were used for one movie?
 What is the most common genre?
